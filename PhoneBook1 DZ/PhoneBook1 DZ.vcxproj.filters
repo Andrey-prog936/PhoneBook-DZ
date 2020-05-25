@@ -18,8 +18,16 @@
     <ClCompile Include="Source.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
+    <ClCompile Include="book.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Saves.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="book.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
